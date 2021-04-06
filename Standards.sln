@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTypeDefinition", "DataTypeDefinition\DataTypeDefinition.csproj", "{D7D681DC-C17E-4148-B4E0-CC471ADA0CCE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectSetting", "ProjectSetting\ProjectSetting.csproj", "{526F367C-9529-4DDD-B841-B4F113BB4F32}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComponentStandard", "ComponentStandard\ComponentStandard.csproj", "{C07B3A2A-1382-4836-BA29-DDE9C2796782}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternetTransferringEntities", "InternetTransferringEntities\InternetTransferringEntities.csproj", "{18AE5209-4DFD-4BDD-A2E6-26320ABBFEE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7D681DC-C17E-4148-B4E0-CC471ADA0CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7D681DC-C17E-4148-B4E0-CC471ADA0CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7D681DC-C17E-4148-B4E0-CC471ADA0CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7D681DC-C17E-4148-B4E0-CC471ADA0CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{526F367C-9529-4DDD-B841-B4F113BB4F32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{526F367C-9529-4DDD-B841-B4F113BB4F32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{526F367C-9529-4DDD-B841-B4F113BB4F32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{526F367C-9529-4DDD-B841-B4F113BB4F32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C07B3A2A-1382-4836-BA29-DDE9C2796782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C07B3A2A-1382-4836-BA29-DDE9C2796782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C07B3A2A-1382-4836-BA29-DDE9C2796782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C07B3A2A-1382-4836-BA29-DDE9C2796782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18AE5209-4DFD-4BDD-A2E6-26320ABBFEE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18AE5209-4DFD-4BDD-A2E6-26320ABBFEE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18AE5209-4DFD-4BDD-A2E6-26320ABBFEE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18AE5209-4DFD-4BDD-A2E6-26320ABBFEE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D73F561-0AD8-44C3-AF82-E41C91A414C9}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://sn.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ComponentStandard\\ComponentStandard.csproj
+		SccProjectName1 = ComponentStandard
+		SccLocalPath1 = ComponentStandard
+		SccProjectUniqueName2 = DataTypeDefinition\\DataTypeDefinition.csproj
+		SccProjectName2 = DataTypeDefinition
+		SccLocalPath2 = DataTypeDefinition
+		SccProjectUniqueName3 = ProjectSetting\\ProjectSetting.csproj
+		SccProjectName3 = ProjectSetting
+		SccLocalPath3 = ProjectSetting
+		SccProjectUniqueName4 = InternetTransferringEntities\\InternetTransferringEntities.csproj
+		SccProjectName4 = InternetTransferringEntities
+		SccLocalPath4 = InternetTransferringEntities
+	EndGlobalSection
+EndGlobal

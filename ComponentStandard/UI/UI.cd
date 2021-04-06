@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NTI.iMeter.ComponentStandard.UI.UIComponentFactoryBase">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAACAAAAwAAAAAABEAAQggAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>UI\UIComponentFactoryBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NTI.iMeter.ComponentStandard.UI.RuntimeTargetPoint">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAggAAAAAAAAAACAAAAAEAAAAAACAAAAAA=</HashCode>
+      <FileName>UI\RuntimeTargetPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NTI.iMeter.ComponentStandard.UI.Device.DeviceUIComponentFactoryBase">
+    <Position X="1.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\Device\UIComponentFactoryBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NTI.iMeter.ComponentStandard.UI.Device.DeviceUIComponentInstanceSettingOperatorBase">
+    <Position X="3.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAABAAAABAgAAAAAAAEAAAEAAAEAA=</HashCode>
+      <FileName>UI\Device\DeviceUIComponentInstanceSettingOperatorBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NTI.iMeter.ComponentStandard.UI.Device.ReadingWorkloadCheckingFailed">
+    <Position X="5.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAAAAAAAAAAAAAAAAAAAAgAAAABAAAACAAAAAA=</HashCode>
+      <FileName>UI\Device\ReadingWorkloadCheckingFailed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NTI.iMeter.ComponentStandard.UI.Device.ReadingWorkloadCheckingSequencerItem">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAABAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\Device\ReadingWorkloadCheckingSequencerItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NTI.iMeter.ComponentStandard.UI.Converter.ConverterUIComponentFactoryBase">
+    <Position X="1.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAACAAAAAAAIAAAAgAAAAAAAA=</HashCode>
+      <FileName>UI\Converter\ConverterUIComponentFactoryBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NTI.iMeter.ComponentStandard.UI.Converter.ConverterUIComponentInstanceSettingOperatorBase">
+    <Position X="3.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\Converter\ConverterUIComponentInstanceSettingOperatorBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NTI.iMeter.ComponentStandard.UI.Converter.ConverterOutputDefinition">
+    <Position X="5.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAIgAAAAAAAAAAQAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>UI\Converter\ConverterOutputDefinition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NTI.iMeter.ComponentStandard.UI.Condition.ConditionUIComponentFactoryBase">
+    <Position X="1.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAABAAAAACAAAAAAAIAAAAgAAAAAAAQ=</HashCode>
+      <FileName>UI\Condition\ConditionUIComponentFactoryBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NTI.iMeter.ComponentStandard.UI.Condition.ConditionUIComponentInstanceSettingOperatorBase">
+    <Position X="3.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\Condition\ConditionUIComponentInstanceSettingOperatorBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NTI.iMeter.ComponentStandard.UI.StrongCustomizedType.StrongCustomizedTypeUIComponentFactoryBase">
+    <Position X="6.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAIAAAQAAAAAAAAA=</HashCode>
+      <FileName>UI\StrongCustomizedType\StrongCustomizedTypeUIComponentFactoryBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NTI.iMeter.ComponentStandard.UI.StrongCustomizedType.StrongCustomizedTypeUIComponentInstanceSettingOperatorBase">
+    <Position X="8.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAICAAAAAAAAAAAQAA=</HashCode>
+      <FileName>UI\StrongCustomizedType\StrongCustomizedTypeUIComponentInstanceSettingOperatorBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NTI.iMeter.ComponentStandard.UI.Processor.ProcessorUIComponentFactoryBase">
+    <Position X="1.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\Processor\ProcessorUIComponentFactoryBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NTI.iMeter.ComponentStandard.UI.Processor.ProcessorUIComponentInstanceSettingOperatorBase">
+    <Position X="3.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\Processor\ProcessorUIComponentInstanceSettingOperatorBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NTI.iMeter.ComponentStandard.UI.Processor.ProcessorInputDefinition">
+    <Position X="5.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAgAAgAQAAAIAQAAACAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\Processor\ProcessorInputDefinition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NTI.iMeter.ComponentStandard.UI.Processor.ProcessorOutputDefinition">
+    <Position X="7.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAIgAAAAAAAAIAQAAAAAAAAACAAAAAIAAAA=</HashCode>
+      <FileName>UI\Processor\ProcessorOutputDefinition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NTI.iMeter.ComponentStandard.UI.Device.ReadingWorkloadCheckingChannelItem">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>UI\Device\ReadingWorkloadCheckingChannelItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NTI.iMeter.ComponentStandard.UI.UIComponentInstanceSettingOperatorBase">
+    <Position X="9.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\UIComponentInstanceSettingOperatorBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="NTI.iMeter.ComponentStandard.UI.ICoeditorUIControl">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAACAAAAAAAAAAAAAAAAgIAAAAAAIAADAAAA=</HashCode>
+      <FileName>UI\ICoeditorUIControl.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="NTI.iMeter.ComponentStandard.UI.Device.ReadingWorkloadCheckingFailedCause">
+    <Position X="7.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>UI\Device\ReadingWorkloadCheckingFailedCause.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="NTI.iMeter.ComponentStandard.UI.Device.ReadingWorkloadCheckingFailedLevel">
+    <Position X="7.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\Device\ReadingWorkloadCheckingFailedLevel.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="NTI.iMeter.ComponentStandard.UI.Processor.ProcessorOutputEventTriggeringMode">
+    <Position X="9.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAEAAAAAAAAAAIAAAAAAAAAAAAAAAABAIAAA=</HashCode>
+      <FileName>UI\Processor\ProcessorOutputEventTriggeringMode.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

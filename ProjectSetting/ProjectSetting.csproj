@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>NTI.iMeter.ProjectSetting</RootNamespace>
+    <Product>iMeter</Product>
+    <Authors>NTI</Authors>
+    <Company>NTI</Company>
+    <Description>NTI iMeter Standards ProjectSetting</Description>
+    <Copyright>Copyright © NTI 2021</Copyright>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>NTI.iMeter.Standards.ProjectSetting</PackageId>
+    <Version>1.0.4</Version>
+    <PackageTags>NTI iMeter</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/NTI56/iMeter-Standards/</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/NTI56/iMeter-Standards/</RepositoryUrl>
+    <PackageReleaseNotes>Remove net47 support</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="ProjectSetting.csproj.vspscc" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NTI.iMeter.Standards.DataTypeDefinition" Version="1.0.4" />
+  </ItemGroup>
+
+</Project>

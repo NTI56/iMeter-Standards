@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NTI.iMeter.ComponentStandard.Runtime.RuntimeComponentFactoryBase">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQACAAQAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Runtime\RuntimeComponentFactoryBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NTI.iMeter.ComponentStandard.Runtime.Device.DeviceRuntimeComponentFactoryBase">
+    <Position X="1.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Runtime\Device\DeviceRuntimeComponentFactoryBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NTI.iMeter.ComponentStandard.Runtime.Device.DeviceRuntimeComponentBase">
+    <Position X="3.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Runtime\Device\DeviceRuntimeComponentBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NTI.iMeter.ComponentStandard.Runtime.Converter.ConverterRuntimeComponentFactoryBase">
+    <Position X="8" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Runtime\Converter\ConverterRuntimeComponentFactoryBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NTI.iMeter.ComponentStandard.Runtime.Converter.ConverterRuntimeComponentBase">
+    <Position X="10" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAICAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Runtime\Converter\ConverterRuntimeComponentBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NTI.iMeter.ComponentStandard.Runtime.Condition.ConditionRuntimeComponentBase">
+    <Position X="3.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Runtime\Condition\ConditionRuntimeComponentBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NTI.iMeter.ComponentStandard.Runtime.Condition.ConditionRuntimeComponentBase&lt;T&gt;">
+    <Position X="3.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Runtime\Condition\ConditionRuntimeComponentBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NTI.iMeter.ComponentStandard.Runtime.Condition.ConditionRuntimeComponentFactoryBase">
+    <Position X="1.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Runtime\Condition\ConditionRuntimeComponentFactoryBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NTI.iMeter.ComponentStandard.Runtime.StrongCustomizedType.StrongCustomizedTypeRuntimeComponentFactoryBase">
+    <Position X="6" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Runtime\StrongCustomizedType\StrongCustomizedTypeRuntimeComponentFactoryBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NTI.iMeter.ComponentStandard.Runtime.StrongCustomizedType.StrongCustomizedTypeRuntimeComponentBase">
+    <Position X="8" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Runtime\StrongCustomizedType\StrongCustomizedTypeRuntimeComponentBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NTI.iMeter.ComponentStandard.Runtime.Processor.ProcessorRuntimeComponentFactoryBase">
+    <Position X="1.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Runtime\Processor\ProcessorRuntimeComponentFactoryBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NTI.iMeter.ComponentStandard.Runtime.Processor.ProcessorRuntimeComponentBase">
+    <Position X="3.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIBRAQAAAACAAAQAAAIAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Runtime\Processor\ProcessorRuntimeComponentBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NTI.iMeter.ComponentStandard.Runtime.Processor.RefreshingRequestEventArgs">
+    <Position X="5.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Runtime\Processor\RefreshingRequestEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NTI.iMeter.ComponentStandard.Runtime.Device.DeviceChannelRuntimeComponentBase">
+    <Position X="5.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Runtime\Device\DeviceChannelRuntimeComponentBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="NTI.iMeter.ComponentStandard.Runtime.StrongCustomizedType.ISequencerTimeSource">
+    <Position X="8" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Runtime\StrongCustomizedType\ISequencerTimeSource.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
